@@ -3,7 +3,7 @@
 Ejercicios de práctica que voy resolviendo mientras aprendo Python.
 
 ## 🎯 Objetivo
-Meta profesional.
+Fortaleciendo mis habilidades en Python para el análisis de datos y la programación en general, como complemento a SQL, Power BI y Power Query.
 
 ## 📚 Ejercicios
 
