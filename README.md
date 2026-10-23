@@ -10,6 +10,7 @@ Fortaleciendo mis habilidades en Python para el análisis de datos y la programa
 | # | Ejercicio | Qué practico |
 |---|---|---|
 | 020 | [Sistema de Reserva de Hoteles](020_Reserva_Hotel.ipynb) | Variables y tipos de datos |
+| 022 | [Sistema de Tienda Online](022_Tienda_Online.ipynb) | Variables y tipos de datos |
 
 ## 🛠️ Herramientas
 - Python
