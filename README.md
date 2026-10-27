@@ -7,18 +7,18 @@ Fortaleciendo mis habilidades en Python para el análisis de datos y la programa
 
 ## 📚 Ejercicios
 
-| # | Ejercicio | Qué practico |
+| # | Ejercicio | Temas |
 |---|---|---|
-| 020 | [Sistema de Reserva de Hoteles](020_Reserva_Hotel.ipynb) | Variables y tipos de datos |
-| 022 | [Sistema de Tienda Online](022_Tienda_Online.ipynb) | Variables y tipos de datos |
-| 053 | [ID Único Generador](053_ID_Unico.ipynb) | Cadenas . Modulos |
-| 055 | [Sistema generador de Emails](055_Generador_Emails.ipynb) | Cadenas |
-| 089 | [Tienda en línea con descuentos](089_Tienda_Descuentos.ipynb) | Operadores . Condicionales |
-| 105 | [Sistema de Autenticación](105_Autenticacion.ipynb) | Operadores . Condicionales |
-| 114 | [Aplicación Cajero Automático](114_Cajero_Automatico.ipynb) | Operadores . Condicionales . Ciclos |
+| 020 | [Sistema de Reserva de Hoteles](020_Reserva_Hotel.ipynb) | Variables |
+| 022 | [Sistema de Tienda Online](022_Tienda_Online.ipynb) | Variables |
+| 053 | [ID Único Generador](053_ID_Unico.ipynb) | Cadenas · Módulos |
+| 055 | [Sistema Generador de Emails](055_Generador_Emails.ipynb) | Cadenas |
+| 089 | [Tienda en línea con descuentos](089_Tienda_Descuentos.ipynb) | Operadores · Condicionales |
+| 105 | [Sistema de Autenticación](105_Autenticacion.ipynb) | Operadores · Condicionales |
+| 114 | [Aplicación Cajero Automático](114_Cajero_Automatico.ipynb) | Operadores · Condicionales · Ciclos |
 | 120 | [Juego de Adivinanzas](120_Juego_Adivinanzas.ipynb) | Condicionales · Ciclos · Módulos |
 | 178 | [Sistema de Inventarios](178_Inventarios.ipynb) | Ciclos · Colecciones · Funciones |
-| 180 | [Sistema de MaquinaSnacks](180_MaquinaSnacks.ipynb) | Ciclos · Colecciones · Funciones |
+| 180 | [Máquina de Snacks](180_MaquinaSnacks.ipynb) | Ciclos · Colecciones · Funciones |
 
 ## 🛠️ Herramientas
 - Python
