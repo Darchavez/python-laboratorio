@@ -18,6 +18,8 @@ Fortaleciendo mis habilidades en Python para el análisis de datos y la programa
 | 114 | [Aplicación Cajero Automático](114_Cajero_Automatico.ipynb) | Operadores · Condicionales · Ciclos |
 | 120 | [Juego de Adivinanzas](120_Juego_Adivinanzas.ipynb) | Condicionales · Ciclos · Módulos |
 | 135 | [Promedio de Calificaciones](135_Promedio_Calificaciones.ipynb) | Operadores · Condicionales · Ciclos |
+| 143 | [Lista de Suscriptores con Sets](143_Lista_Suscriptores_Sets.ipynb) | Condicionales · Colecciones |
+| 148 | [Agenda de Contactos](148_Agenda_Contactos.ipynb) | Condicionales · Ciclos · Colecciones |
 | 151 | [Gestión de Inventario](151_Gestion_Inventario.ipynb) | Ciclos · Colecciones |
 | 178 | [Sistema de Inventarios](178_Inventarios.ipynb) | Ciclos · Colecciones · Funciones |
 | 180 | [Máquina de Snacks](180_MaquinaSnacks.ipynb) | Ciclos · Colecciones · Funciones |
