@@ -13,7 +13,7 @@ Fortaleciendo mis habilidades en Python para el análisis de datos y la programa
 | 022 | [Sistema de Tienda Online](022_Tienda_Online.ipynb) | Variables y tipos de datos |
 | 053 | [ID Único Generador](053_ID_Unico.ipynb) | Cadenas . Modulos |
 | 055 | [Sistema generador de Emails](055_Generador_Emails.ipynb) | Cadenas |
-| 074 | [ID Único Generador](074_Autenticacion.ipynb) | Operadores . Condicionales |
+| 074 | [Sistema de Autenticación](074_Autenticacion.ipynb) | Operadores . Condicionales |
 | 089 | [Tienda en línea con descuentos](089_Tienda_Descuentos.ipynb) | Operadores . Condicionales |
 | 105 | [Sistema de Autenticación](105_Autenticacion.ipynb) | Operadores . Condicionales |
 | 114 | [Aplicación Cajero Automático](114_Cajero_Automatico.ipynb) | Operadores . Condicionales . Ciclos |
