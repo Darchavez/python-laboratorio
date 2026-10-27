@@ -16,6 +16,7 @@ Fortaleciendo mis habilidades en Python para el análisis de datos y la programa
 | 089 | [Tienda en línea con descuentos](089_Tienda_Descuentos.ipynb) | Operadores . Condicionales |
 | 105 | [Sistema de Autenticación](105_Autenticacion.ipynb) | Operadores . Condicionales |
 | 114 | [Aplicación Cajero Automático](114_Cajero_Automatico.ipynb) | Operadores . Condicionales . Ciclos |
+| 120 | [Juego de Adivinanzas](120_Juego_Adivinanzas.ipynb) | Condicionales · Ciclos · Módulos |
 | 178 | [Sistema de Inventarios](178_Inventarios.ipynb) | Ciclos · Colecciones · Funciones |
 | 180 | [Sistema de MaquinaSnacks](180_MaquinaSnacks.ipynb) | Ciclos · Colecciones · Funciones |
 
